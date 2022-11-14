@@ -1,0 +1,3 @@
+# project build and cache files.
+dist/
+.parcel-cache/
